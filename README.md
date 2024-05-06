@@ -14,7 +14,7 @@ During my academic journey, I've had the opportunity to intern at Agap2It, where
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/C.svg"/>
 <img align="left" alt="Cpp" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/C%2B%2B.svg"/>
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/C%23.svg"/>
-<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/.NET.svg"/>
+<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/NET.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/PedroVieira00/PedroVieira00/blob/main/SVG/Languages-Tools/Linux.svg"/>
 <br>
 
