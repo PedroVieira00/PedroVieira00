@@ -1,4 +1,4 @@
-# Hi, I'm Pedro ✨
+# Hi, I'm Pedro Vieira
 I'm Pedro, a final year student pursuing a Bachelor's degree in Computer Science and Engineering at ISEC (Instituto Superior de Engenharia de Coimbra).<br>
 I'm passionate about all things tech, with a keen interest in software development and Web3 development!<br>
 
