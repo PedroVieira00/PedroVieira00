@@ -1,3 +1,4 @@
+<img src="perfil.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 # Hi, I'm Pedro ✨
 I'm Pedro, a final year student pursuing a Bachelor's degree in Computer Science and Engineering at ISEC (Instituto Superior de Engenharia de Coimbra).<br>
 I'm passionate about all things tech, with a keen interest in software development and Web3 development!<br>
